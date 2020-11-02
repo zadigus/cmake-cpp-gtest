@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\crc.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\crc.dir/objects.a @CMakeFiles\crc.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe  -Og -shared -o libcrc.dll -Wl,--out-implib,libcrc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\crc.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\crc.dir\linklibs.rsp
