@@ -1,0 +1,1 @@
+ ../src/libcrc.dll.a D:/sw/gtest/lib/libgtest.a D:/sw/gtest/lib/libgtest_main.a D:/sw/gtest/lib/libgtest.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

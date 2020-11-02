@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/michell/Desktop/cmake-example/src/crc.c
+crc.h
+C:/Users/michell/Desktop/cmake-example/src/crc.h
+string.h
+-
+
+C:/Users/michell/Desktop/cmake-example/src/crc.h
+
